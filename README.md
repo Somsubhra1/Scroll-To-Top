@@ -3,7 +3,7 @@ A JavaScript file to help you add button to automatically scroll to top of the p
 ## How do I use it?
 Just link the script.js file to your index.html page
 ```html
-<link rel="stylesheet" href="/path/to/script.js">
+<script src="path/to/script.js"></script>
 ```
 then add the href attribute as javascript and return-to-top ID to the a tag
 ```html
